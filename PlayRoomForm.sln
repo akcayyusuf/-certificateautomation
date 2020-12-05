@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29215.179
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PlayRoomForm", "PlayRoomForm.csproj", "{DFE2B992-DCDC-49B0-A985-B97AA98B4BA8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|Any CPU = Release|Any CPU
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DFE2B992-DCDC-49B0-A985-B97AA98B4BA8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DFE2B992-DCDC-49B0-A985-B97AA98B4BA8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DFE2B992-DCDC-49B0-A985-B97AA98B4BA8}.Debug|x64.ActiveCfg = Debug|x64
+		{DFE2B992-DCDC-49B0-A985-B97AA98B4BA8}.Debug|x64.Build.0 = Debug|x64
+		{DFE2B992-DCDC-49B0-A985-B97AA98B4BA8}.Debug|x86.ActiveCfg = Debug|x86
+		{DFE2B992-DCDC-49B0-A985-B97AA98B4BA8}.Debug|x86.Build.0 = Debug|x86
+		{DFE2B992-DCDC-49B0-A985-B97AA98B4BA8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DFE2B992-DCDC-49B0-A985-B97AA98B4BA8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DFE2B992-DCDC-49B0-A985-B97AA98B4BA8}.Release|x64.ActiveCfg = Release|x64
+		{DFE2B992-DCDC-49B0-A985-B97AA98B4BA8}.Release|x64.Build.0 = Release|x64
+		{DFE2B992-DCDC-49B0-A985-B97AA98B4BA8}.Release|x86.ActiveCfg = Release|x86
+		{DFE2B992-DCDC-49B0-A985-B97AA98B4BA8}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {246B22AC-ED08-4591-A048-2FFF6BC1EC38}
+	EndGlobalSection
+EndGlobal
